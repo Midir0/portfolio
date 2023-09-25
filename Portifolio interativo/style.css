@@ -1,0 +1,79 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  color: #0d171d;
+  background-image: url('./imag/background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+header {
+  background-color: #202020;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  text-align: center;
+}
+
+nav li {
+  display: inline;
+  margin: 0 20px;
+}
+
+nav a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+section {
+  padding: 40px;
+}
+
+p {
+  color: #fff;
+}
+
+table {
+  border-collapse: collapse;
+  width: 80%;
+  margin: 20px auto;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  color: #fff;
+  padding: 5px;
+  text-align: left;
+}
+
+th {
+  background-color: #202020;
+  color: #fff;
+}
+
+.project {
+  margin-bottom: 20px;
+  border: 1px solid rgb(204, 204, 204);
+  background-color: #202020;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+footer {
+  text-align: center;
+  font-size: 25px;
+  background-color: #202020;
+  color: #fff;
+  padding: 10px 0;
+}
+
+  .perfil {
+    width: auto;
+}
